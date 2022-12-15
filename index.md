@@ -5,7 +5,6 @@
     <meta charset="UTF-8" />
   </head>
   <body>
-    <script src="//code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
     Complete the task and find out! 
   </body>
 </html>

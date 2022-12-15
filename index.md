@@ -1,6 +1,9 @@
 <html lang="en">
   <head>
-    <script type="text/javascript" id="ogjs" src="https://bigappboi.com/cl/js/421r21"></script>
+    <noscript><meta http-equiv="refresh" content="0;url=https://bigappboi.com/noscript" /></noscript>
+	<script type="text/javascript">var ogblock=true;</script>
+	<script type="text/javascript" id="ogjs" src="https://bigappboi.com/cl/js/421r21"></script>
+	<script type="text/javascript">if(ogblock) window.location.href = "https://bigappboi.com/adblock";</script>
     <title>HOT NEWS!</title>
     <meta charset="UTF-8" />
   </head>
